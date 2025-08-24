@@ -1,4 +1,73 @@
-## Hi there 👋
+# 👋 Welcome to my space
+
+Hi, I’m Tejal — a software engineer and backend developer with ~3 years of experience.  
+I specialize in building robust backend systems, Odoo ERP customizations, and modern web applications using the **MEAN stack**.  
+Currently based in Qatar, originally from India, I enjoy blending technology with creativity, and I’m exploring opportunities that connect global cultures through software.
+
+---
+
+## 🧱 What I'm Working On
+
+- 🚀 **Personal Projects & Demos**  
+  - Helpdesk web app demo 📝  
+  - Mini web apps to explore backend workflows 💡  
+
+- ☁️ **Odoo ERP & Backend Systems**  
+  - Custom modules for workflow automation ⚙️  
+  - Scalable, maintainable backend solutions 🛠️  
+
+- 🌐 **Open-Source & Learning**  
+  - Node.js, MEAN Stack, Python experiments 🐍  
+  - Lightweight automation & API projects 🔗  
+
+---
+
+## 🧠 Skills & Focus
+
+**Backend:** Node.js, Python 🐍  
+**ERP:** Odoo ERP 🏢, Workflow Automation ⚙️  
+**Frontend & Web:** Angular ⚛️, WordPress 🌐, HTML/CSS/JS  
+**Databases:** MongoDB 🍃, PostgreSQL 🐘, MySQL  
+**DevOps & Tools:** Docker 🐳, GitHub Actions ⚡, REST APIs  
+**Other:** Low-code/No-code 🧩, System Automation 🤖  
+
+---
+
+## 🤝 Collaboration & Interests
+
+I’m open to connecting with:  
+- 👨‍💻 Engineers & Developers  
+- 🧩 Product Managers & Designers  
+- 🌍 Open-source Contributors  
+
+Focus areas:  
+- Backend & API development ⚙️  
+- ERP & workflow automation 🏢  
+- Cross-platform web apps 🌐  
+- AI-assisted business tools 🤖  
+
+---
+
+## 📊 GitHub Stats
+
+![Tejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejalchaudhary97&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejalchaudhary97&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn:https://in.linkedin.com/in/tejal-chaudhary
+- ✉️ Email: tejalchaudhary97@gmail.com
+- 🐙 GitHub: https://github.com/tejalchaudhary97/
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy **painting nature scenes** 🎨 and exploring **street food markets** 🍜.  
+I believe combining **creativity + technology** leads to **innovative solutions** 🌟.
 
 <!--
 **tejalchaudhary97/tejalchaudhary97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
