@@ -22,47 +22,54 @@ Currently based in Qatar, originally from India, I enjoy blending technology wit
 
 ---
 
-## 🧠 Skills & Focus
+## 🧠 Skills & Tools  
 
-**Backend:** Node.js, Python 🐍  
-**ERP:** Odoo ERP 🏢, Workflow Automation ⚙️  
-**Frontend & Web:** Angular ⚛️, WordPress 🌐, HTML/CSS/JS  
-**Databases:** MongoDB 🍃, PostgreSQL 🐘, MySQL  
-**DevOps & Tools:** Docker 🐳, GitHub Actions ⚡, REST APIs  
-**Other:** Low-code/No-code 🧩, System Automation 🤖  
+**Languages & Backend:**  
+Node.js | Python | Odoo ERP  
+
+**Frontend & Web:**  
+Angular | HTML/CSS/JS | WordPress  
+
+**Databases:**  
+MongoDB | PostgreSQL | MySQL  
+
+**DevOps & Tools:**  
+Docker | GitHub Actions | REST APIs  
+
+**Other:**  
+Low-code/No-code | Workflow Automation | System Automation  
 
 ---
 
-## 🤝 Collaboration & Interests
+
+## 🤝 Collaboration & Interests  
 
 I’m open to connecting with:  
-- 👨‍💻 Engineers & Developers  
-- 🧩 Product Managers & Designers  
-- 🌍 Open-source Contributors  
+👨‍💻 Engineers & Developers | 🧩 Product Managers & Designers | 🌍 Open-source Contributors  
 
-Focus areas:  
-- Backend & API development ⚙️  
-- ERP & workflow automation 🏢  
-- Cross-platform web apps 🌐  
-- AI-assisted business tools 🤖  
+**Focus Areas:**  
+- Backend & API Development ⚙️  
+- ERP & Workflow Automation 🏢  
+- Cross-platform Web Apps 🌐  
+- AI-assisted Business Tools 🤖  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 ![Tejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejalchaudhary97&show_icons=true&theme=radical)  
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejalchaudhary97&layout=compact&theme=radical)  
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me  
 
-- 💼 LinkedIn:https://in.linkedin.com/in/tejal-chaudhary
-- ✉️ Email: tejalchaudhary97@gmail.com
-- 🐙 GitHub: https://github.com/tejalchaudhary97/
+- 💼 [LinkedIn](https://in.linkedin.com/in/tejal-chaudhary)  
+- ✉️ Email: **tejalchaudhary97@gmail.com**  
+- 🐙 [GitHub](https://github.com/tejalchaudhary97/)  
 
 ---
+
 
 ## ⚡ Fun Fact
 
